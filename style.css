@@ -1,0 +1,31 @@
+.section1 {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-links {
+    background-color: blueviolet;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-text {
+    background-color: blue;
+}
+
+.header-image {
+    background-color: red;
+}
